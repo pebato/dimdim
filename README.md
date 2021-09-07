@@ -1,4 +1,4 @@
-# epictask
-Projeto de uma aplicação de gerenciamento ágil inteligente.
+# DimDim
+############################
 
 RM84735 - Pedro Dib
